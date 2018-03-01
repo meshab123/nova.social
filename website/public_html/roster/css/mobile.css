@@ -1,0 +1,124 @@
+h3 {
+    font-family: Roboto;
+}
+body{
+    font-family: Roboto;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+button{
+    text-align: center;
+}
+#page-layout{
+    border: 1px solid;
+    position:absolute;
+    width: 800px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top:20px;
+}
+
+.draggable {
+    width: 150px;
+    height: 100px;
+    /* position: relative; */
+    padding: 0.5em;
+}
+
+#queue {
+    border: 1px solid;
+    position: relative;
+    width:100px;
+    height: 400px;
+    margin-top:10px;
+    margin-left: 5px;
+    padding-right: 5px;
+    margin-right:5px;
+}
+
+#report {
+    border: 1px solid;
+    position: relative;
+    width:150px;
+    height: 200px;
+    margin-top:10px;
+    margin-left: 400px;
+    padding-left: 6px;
+    padding-right: 5px;
+    margin-right:5px;
+}
+#name-tag-container{
+    border: 1px solid;
+    position: relative;
+    width: 200px;
+    height: 400px;
+    top: 100px;
+    margin-left: 200px;
+    margin-top:10px;
+    /*padding-left: -0px;*/
+    /*margin-left:-244px;*/
+}
+
+#mc {
+    border: 0px solid;
+    position: relative;
+    width: 80px;
+    height: 40px;
+    top: 100px;
+    left: 5px;
+    padding-left: 0px;
+    margin-left:-5px;
+}
+
+/*#report_display {*/
+    /*position: absolute;*/
+    /*width: 156px;*/
+    /*height: auto;*/
+    /*top: 150px;*/
+    /*left: 780px;*/
+    /*padding-left: 6px;*/
+    /*padding-right: 5px;*/
+    /*margin-right:5px;*/
+/*}*/
+
+
+table {
+
+}
+
+#participant-queue {
+    width:400px;
+    text-align: center;
+}
+
+#participant-report {
+    width:400px;
+    text-align: center;
+}
+
+#name-tag-content {
+    width:200px;
+}
+
+#mobile-queue-list {
+    height:200px;
+}
+
+#name-tag {
+ height: 300px;
+}
+
+/*#hand-tag {*/
+    /*height: 10px;*/
+    /*width: 10px;*/
+/*}*/
+
+#report-list {
+    height:300px;
+}
+
+
+
+

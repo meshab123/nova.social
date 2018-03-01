@@ -1,0 +1,188 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: Roboto;
+    font-size: 1em;
+    bacground: lightgray;
+    /* background-image: url('../image/large-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+}
+
+body {
+    font-family: Roboto;
+}
+
+#header-container {
+    border-style: groove;
+    background-color:white;
+}
+#header-container-main {
+    border-style: groove;
+    background-color:lavender;
+}
+
+table {
+    width:80%;
+    margin-top:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+
+td {
+    background-color: papayawhip;
+    text-align: center;
+}
+
+th {
+    background-color: greenyellow;
+}
+
+.text-center.row-color {
+    background-color:white;
+    width:100px;
+    height: 60px;
+    border:77px;
+    background-color:#84c485;
+    font-size: 2em;
+}
+
+.text-center.th-color {
+    background-color: #c4e3f3;
+    font-size: 1em;
+}
+
+.table-data {
+    background-color: #feec8e;
+}
+
+.headspace {
+    margin-top: 100px;
+}
+#ice-logo {
+    margin: 2px 0px;
+    width: 75px;
+    height: 75px;
+}
+
+
+/*.badge {*/
+/*background-color: green;*/
+/*}*/
+
+body {
+    font-family: roboto, arial, helvettica, sans-serif;
+}
+
+.center-all {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 24px;
+    margin: 16px 0px 0px 0px;
+    padding: 0px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin: 2px 0px 0px 0px;
+    padding: 0px;
+}
+
+#header-container {
+    height: 140px;
+}
+
+.nav-block-header {
+    background:#84c4a5;
+    float: none;
+    font-size: 18px;
+    height: 4em;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 4em;
+    border: 1px solid #808080;
+}
+
+.nav-block-sub-header {
+    background: #c1e1d2;
+    float: none;
+    font-size: 16px;
+    height: 2em;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2em;
+    border: 1px solid #808080;
+}
+
+.navigaton-button-container {
+    background: #white;
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigation-button {
+    background: #feec8e;
+    float: left;
+    font-size: 14px;
+    margin: 0 auto;
+    height: 56px;
+    line-height: 14px;
+    border: 1px solid #808080;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.navigation-button > a {
+    color: black;
+}
+
+.navbar .nav,
+.navbar .nav > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    *zoom:1; /* hasLayout ie7 trigger */
+    vertical-align: top;
+}
+
+.navbar-inner {
+    text-align:center;
+}
+
+.user-role {
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: right;
+}
+
+.settings {
+    font-size: 1em;
+    color: black;
+    text-align: right;
+}
+
+.sign-out {
+    font-size: 1em;
+    color: black;
+    text-align: right;
+}
+
+.user {
+    display: table-cell;
+    text-align: right;
+    line-height: 1em;
+    padding-top: 4px;
+}
+
+

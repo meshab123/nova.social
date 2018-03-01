@@ -1,0 +1,144 @@
+
+
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: Roboto;
+    font-size: 1em;
+    bacground: lightgray;
+    /* background-image: url('../image/large-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+}
+
+#header-container {
+    border-style: groove;
+    background-color:white;
+}
+#header-container-main {
+    border-style: groove;
+    background-color:lavender;
+}
+
+.headspace {
+    margin-top: 100px;
+}
+
+#ice-logo {
+    margin: 2px 0px;
+    width: 75px;
+    height: 75px;
+}
+
+.logo {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+}
+
+body {
+    font-family: roboto, arial, helvettica, sans-serif;
+}
+
+.center-all {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 24px;
+    margin: 16px 0px 0px 0px;
+    padding: 0px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin: 2px 0px 0px 0px;
+    padding: 0px;
+}
+
+#header-container {
+    height: 140px;
+}
+
+
+
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+    box-shadow:  0px 0px 0px 0px #000;
+    font-family: Roboto;
+}
+
+legend.scheduler-border {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+    font-family: Roboto;
+}
+
+table {
+    border-style: outset;
+
+
+}
+
+/*table th {*/
+/*text-align: center;*/
+/*background-color:#84c4a5;*/
+/*}*/
+
+th {
+    background-color: #c1e2b3;
+    text-align: center;
+}
+
+td {
+
+}
+
+th.min {
+    width:0%;
+    white-space: nowrap;
+    border-top:hidden;
+    border-left: hidden;
+}
+
+td.min {
+    width:1%;
+    white-space: nowrap;
+    border-bottom:groove;
+}
+
+.buttons {
+    /*text-align: center;*/
+}
+
+.settings {
+    font-size: 1em;
+    color: black;
+    text-align: right;
+}
+
+.sign-out {
+    font-size: 1em;
+    color: black;
+    text-align: right;
+}
+
+.user {
+    display: table-cell;
+    text-align: right;
+    line-height: 1em;
+    padding-top: 4px;
+}
+
+
+
+
+

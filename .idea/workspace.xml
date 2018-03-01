@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="531ba40e-8817-45a5-a7c3-8664c968ad6a" name="Default" comment="" />
+    <ignored path="nova.social.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nova.social" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4303709">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="db_connection.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/db_connection.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sample.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-19.615385">
+                  <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Test.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/Test.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.16707617">
+                  <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Test2.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/Test2.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-26.153847">
+                  <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/autoload.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-8.5">
+                  <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="sample.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.12142857">
+                  <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding>
+                    <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+                    <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+                    <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/website/public_html/roster/test2.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/test2.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/scheduler(1).js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/test.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/test.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/draggable.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/scheduler.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/scheduler.php" />
+        <option value="$PROJECT_DIR$/website/public_html/index.html" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/meshbentest.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/meshben.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/css/mobile.css" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/mobile-test.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/mobile.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/js/mobile.js" />
+        <option value="$PROJECT_DIR$/class/Db-connection.php" />
+        <option value="$PROJECT_DIR$/class/db_connectioni.php" />
+        <option value="$PROJECT_DIR$/class/db_connection.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/speaking_queue.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/speaking_queue.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/update_person.php" />
+        <option value="$PROJECT_DIR$/class/person.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/js/speaking_queue.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/js/test.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/css/main.css" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/string_check.php" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/js/sample.js" />
+        <option value="$PROJECT_DIR$/website/public_html/roster/sample.php" />
+        <option value="$PROJECT_DIR$/class/test.php" />
+        <option value="$PROJECT_DIR$/class/Test2.php" />
+        <option value="$PROJECT_DIR$/autoload.php" />
+        <option value="$PROJECT_DIR$/class/Test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nova.social" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nova.social" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nova.social" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="O:\nova.social\website\public_html\roster\css" />
+      <recent name="O:\nova.social\website\public_html\roster" />
+      <recent name="O:\nova.social\website\public_html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="O:\nova.social\website\public_html\roster\js" />
+      <recent name="O:\nova.social\website\public_html\roster" />
+      <recent name="O:\nova.social\website\public_html\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531ba40e-8817-45a5-a7c3-8664c968ad6a" name="Default" comment="" />
+      <created>1508761839372</created>
+      <option name="number" value="Default" />
+      <updated>1508761839372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1301956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="10" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="354" column="62" selection-start-line="354" selection-start-column="62" selection-end-line="354" selection-end-column="62" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="353" column="0" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/bootstrap-3.3.2/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="329" selection-start-line="4" selection-start-column="315" selection-end-line="4" selection-end-column="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="242" column="0" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/bootstrap-3.3.2/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="329" selection-start-line="4" selection-start-column="315" selection-end-line="4" selection-end-column="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/draggable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5908072">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1179" column="0" selection-start-line="1179" selection-start-column="0" selection-end-line="1179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/scheduler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5908072">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/bootstrap-3.3.2/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="329" selection-start-line="4" selection-start-column="315" selection-end-line="4" selection-end-column="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/meshben.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29484305">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018518519">
+          <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34304932">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33213645">
+          <caret line="22" column="115" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.099183194">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.923077">
+          <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/mobile-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21593533">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.943418">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/update_person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/speaking_queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1636364">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/mobile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4332553">
+          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/speaking_queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.46206117">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/scheduler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7723669">
+          <caret line="70" column="12" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35900623">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="474" column="18" selection-start-line="474" selection-start-column="18" selection-end-line="474" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/db_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39680588">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1512579126000" expanded="true" signature="531:620" placeholder="INSERT INTO participant... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/js/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12142857">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1518036756827" expanded="true" signature="5082:5115" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="10836:10890" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11412:12828" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11515:11542" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11543:12806" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11593:12805" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11638:11692" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="11713:12781" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11807:11847" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="11861:11904" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12046:12065" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12242:12261" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12517:12535" placeholder="..." />
+            <marker date="1518036756827" expanded="false" signature="12681:12700" placeholder="..." />
+            <marker date="1518036756827" expanded="true" signature="15130:15184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/public_html/roster/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Test2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.153847">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16707617">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
